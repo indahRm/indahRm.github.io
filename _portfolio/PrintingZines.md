@@ -5,6 +5,10 @@ header:
   #image: /assets/images/KR brochure preview.png
   teaser: /assets/images/Printing Zine preview.png
 sidebar:
+  - title: "Role"
+    text: "Technical Writing, Graphic Design"
+  - title: "Responsibilities"
+    text: "N/A, I did this for my own reference & amusement"  
   - title: "Tools/Skills"
     text: "InDesign, Clip Studio, Photoshop"
     
